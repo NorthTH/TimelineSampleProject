@@ -129,6 +129,6 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: TimeControl
+    m_DisplayName: TextSpacing
     m_Version: 1
   m_Version: 2
