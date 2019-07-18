@@ -1,0 +1,1 @@
+詳細：The Sigmoid Factoryから参照しました計算式です。
