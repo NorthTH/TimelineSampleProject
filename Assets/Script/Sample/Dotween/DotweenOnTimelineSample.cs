@@ -23,11 +23,13 @@ public class DotweenOnTimelineSample : BaseTimeControl
 
     protected override void OnStart()
     {
-        defaultColor = image.color;
+        if(image != null)
+            defaultColor = image.color;
     }
 
     protected override void OnEnd()
     {
-        image.color = defaultColor;
+        if(image != null)
+            image.color = defaultColor;
     }
 }
