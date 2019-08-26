@@ -25,6 +25,8 @@ ExportedObj/
 *.svd
 .vscode
 .vs
+Assets/Plugin/package.json
+Assets/Plugin/package.json.meta
 
 
 # Unity3D generated meta files
