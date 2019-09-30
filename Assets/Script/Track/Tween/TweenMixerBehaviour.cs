@@ -2,7 +2,7 @@
 using UnityEngine;
 using UnityEngine.Playables;
 
-namespace Tween
+namespace CustomTrack
 {
     public class TweenMixerBehaviour : PlayableBehaviour
     {
