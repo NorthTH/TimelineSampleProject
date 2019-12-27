@@ -218,12 +218,16 @@ PlayableDirector:
   m_DirectorUpdateMode: 1
   m_InitialTime: 0
   m_SceneBindings:
-  - key: {fileID: 114727003257624132, guid: 282ec6130cdc945dcb8366bcc6db1042, type: 2}
+  - key: {fileID: 0}
     value: {fileID: 1550738894}
-  - key: {fileID: 114847926935026624, guid: 282ec6130cdc945dcb8366bcc6db1042, type: 2}
+  - key: {fileID: 0}
     value: {fileID: 210116693}
-  - key: {fileID: 114804504083800494, guid: 282ec6130cdc945dcb8366bcc6db1042, type: 2}
+  - key: {fileID: 114136537445315858, guid: 282ec6130cdc945dcb8366bcc6db1042, type: 2}
     value: {fileID: 2050422472}
+  - key: {fileID: 114303284247169786, guid: 282ec6130cdc945dcb8366bcc6db1042, type: 2}
+    value: {fileID: 210116693}
+  - key: {fileID: 114093396269432008, guid: 282ec6130cdc945dcb8366bcc6db1042, type: 2}
+    value: {fileID: 1550738894}
   m_ExposedReferences:
     m_References: []
 --- !u!4 &522492899
@@ -375,7 +379,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -275, y: 0}
+  m_AnchoredPosition: {x: -275, y: -150}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1550738895

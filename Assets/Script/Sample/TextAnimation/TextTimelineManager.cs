@@ -4,6 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.Timeline;
 using DG.Tweening;
+using DamriTimelineLibrary;
 
 public class TextTimelineManager : BaseTimeControl
 {

@@ -5,7 +5,7 @@ using DG.Tweening;
 /// <summary>
 /// TimeLineを使った演出用基底クラス。
 /// </summary>
-namespace DamriCustomTrack
+namespace DamriTimelineLibrary
 {
     public class BaseTimeControl : MonoBehaviour, ITimeControl
     {
